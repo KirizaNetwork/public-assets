@@ -1,4 +1,5 @@
 # KirizaNetwork Official Rules
+Version: 6.1.0
 
 ## Communication Rules
 - **C-1: Chat Sopan**  
