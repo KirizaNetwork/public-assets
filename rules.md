@@ -48,3 +48,6 @@ Version: 6.1.0
 
 - **O-2: Donator Ranks**  
   Setelah membeli Items dari Store kami, kamu tidak bisa refund. Jika kamu melanggar Rank Terms, rank bisa kami cabut secara permanen.
+
+- **O-3: Memprovokasi Player lain**
+  Kami melarang Player untuk memprovokasi Player lain untuk melakukan pelanggaran terhadap rules.
