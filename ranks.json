@@ -1,0 +1,208 @@
+{
+  "Zombie": {
+    "commands": [
+      "/fly:Terbang dalam mode survival.",
+      "/say:Mengumumkan pesan ke semua player.",
+	  "/dchat:Privat chat untuk donatur.",
+      "/nick:Mengganti nama anda di server."
+    ],
+	"others": [
+		"Mendapatkan role di Discord",
+		"Askses chat dari Discord ke Server",
+		"Mendapatkan uang economy Rp100,000"
+	],
+	"unlocks": {
+		"survival": [
+			"Klaim Region/Land sampai 5.",
+			"Block limit region sampai 2000",
+			"/pwarp set sampai 5.",
+			"/home set sampai 4."
+		],
+		"oneblock": [
+			"Custom spawn untuk Island.",
+			"Lebar Island sampai 500."
+		]
+	},
+    "price": 40000,
+    "discount": true,
+    "discount-price": 30000
+  },
+  "Skeleton": {
+	"commands": [
+      "/fly:Terbang dalam mode survival.",
+      "/say:Mengumumkan pesan ke semua player.",
+	  "/dchat:Privat chat untuk donatur.",
+      "/nick:Mengganti nama anda di server.",
+      "/feed:Mengenyangkan perut diri sendiri.",
+      "/heal:Nyawamu akan penuh seketika."
+    ],
+	"others": [
+		"Mendapatkan roles di Discord",
+		"Askses chat dari Discord ke Server",
+		"Mendapatkan uang economy Rp200,000"
+	],
+	"unlocks": {
+		"survival": [
+			"Klaim Region/Land sampai 7.",
+			"Block limit region sampai 3000",
+			"/pwarp set sampai 5.",
+			"/home set sampai 4."
+		],
+		"oneblock": [
+			"Custom spawn untuk Island.",
+			"Lebar Island sampai 700."
+		]
+	},
+    "price": 70000,
+    "discount": true,
+    "discount-price": 50000
+  },
+  "Witch": {
+	"commands": [
+      "/fly:Terbang dalam mode survival.",
+      "/say:Mengumumkan pesan ke semua player.",
+	  "/dchat:Privat chat untuk donatur.",
+      "/nick:Mengganti nama anda di server.",
+      "/feed:Mengenyangkan perut diri sendiri.",
+      "/heal:Nyawamu akan penuh seketika.",
+      "/burn:Membakar player lain.",
+      "/extinguish:Memdamkan api diri sendiri.",
+	  "/enderchest:Membuka ender chest.",
+	  "/workbench:Membuka crafting table."
+    ],
+	"others": [
+		"Mendapatkan roles di Discord",
+		"Askses chat dari Discord ke Server",
+		"Mendapatkan uang economy Rp300,000"
+	],
+	"unlocks": {
+		"survival": [
+			"Klaim Region/Land sampai 9.",
+			"Block limit region sampai 5000",
+			"/pwarp set sampai 8.",
+			"/home set sampai 7."
+		],
+		"oneblock": [
+			"Custom spawn untuk Island.",
+			"Lebar Island sampai 900."
+		]
+	},
+    "price": 100000,
+    "discount": true,
+    "discount-price": 70000
+  },
+  "Ender": {
+    "commands": [
+      "/fly:Terbang dalam mode survival.",
+      "/say:Mengumumkan pesan ke semua player.",
+	  "/dchat:Privat chat untuk donatur.",
+      "/nick:Mengganti nama anda di server.",
+      "/feed:Mengenyangkan perut diri sendiri.",
+      "/heal:Nyawamu akan penuh seketika.",
+      "/burn:Membakar player lain.",
+      "/extinguish:Memdamkan api diri sendiri.",
+	  "/enderchest:Membuka ender chest.",
+	  "/workbench:Membuka crafting table.",
+      "/size:Mengubah ukuran tubuh player.",
+      "/vanish:Menjadi tidak terlihat."
+    ],
+	"others": [
+		"Mendapatkan roles di Discord",
+		"Askses chat dari Discord ke Server",
+		"Mendapatkan uang economy Rp400,000"
+	],
+	"unlocks": {
+		"survival": [
+			"Klaim Region/Land sampai 12.",
+			"Block limit region sampai 7000",
+			"/pwarp set sampai 12.",
+			"/home set sampai 10."
+		],
+		"oneblock": [
+			"Custom spawn untuk Island.",
+			"Lebar Island sampai 1000."
+		]
+	},
+    "price": 130000,
+    "discount": true,
+    "discount-price": 100000
+  },
+  "Warden": {
+    "commands": [
+      "/fly:Terbang dalam mode survival.",
+      "/say:Mengumumkan pesan ke semua player.",
+	  "/dchat:Privat chat untuk donatur.",
+      "/nick:Mengganti nama anda di server.",
+      "/feed:Mengenyangkan perut diri sendiri.",
+      "/heal:Nyawamu akan penuh seketika.",
+      "/burn:Membakar player lain.",
+      "/extinguish:Memdamkan api diri sendiri.",
+	  "/enderchest:Membuka ender chest.",
+	  "/workbench:Membuka crafting table.",
+      "/size:Mengubah ukuran tubuh player.",
+      "/vanish:Menjadi tidak terlihat.",
+      "/smite:Sambarkan petir ke posisi depan mata.",
+      "/vision:Mendapatkan night vision unlimited."
+    ],
+	"others": [
+		"Mendapatkan roles di Discord",
+		"Askses chat dari Discord ke Server",
+		"Mendapatkan uang economy Rp500,000"
+	],
+	"unlocks": {
+		"survival": [
+			"Klaim Region/Land sampai 14.",
+			"Block limit region sampai 9000",
+			"/pwarp set sampai 12.",
+			"/home set sampai 10."
+		],
+		"oneblock": [
+			"Custom spawn untuk Island.",
+			"Lebar Island sampai 1200."
+		]
+	},
+    "price": 150000,
+    "discount": true,
+    "discount-price": 120000
+  },
+  "Wither": {
+    "commands": [
+      "/fly:Terbang dalam mode survival.",
+      "/say:Mengumumkan pesan ke semua player.",
+	  "/dchat:Privat chat untuk donatur.",
+      "/nick:Mengganti nama anda di server.",
+      "/feed:Mengenyangkan perut diri sendiri.",
+      "/heal:Nyawamu akan penuh seketika.",
+      "/burn:Membakar player lain.",
+      "/extinguish:Memdamkan api diri sendiri.",
+	  "/enderchest:Membuka ender chest.",
+	  "/workbench:Membuka crafting table.",
+      "/size:Mengubah ukuran tubuh player.",
+      "/vanish:Menjadi tidak terlihat.",
+      "/smite:Sambarkan petir ke posisi depan mata.",
+      "/vision:Mendapatkan night vision unlimited.",
+      "/repair:Memperbaiki tools secara instant.",
+	  "/rename:Mengubah nama item menjadi custom."
+    ],
+	"others": [
+		"Mendapatkan roles di Discord",
+		"Askses chat dari Discord ke Server",
+		"Mendapatkan uang economy Rp700,000"
+	],
+	"unlocks": {
+		"survival": [
+			"Klaim Region/Land sampai 20.",
+			"Block limit region sampai 15000",
+			"/pwarp set sampai 20.",
+			"/home set sampai 20."
+		],
+		"oneblock": [
+			"Custom spawn untuk Island.",
+			"Lebar Island sampai 1500."
+		]
+	},
+    "price": 170000,
+    "discount": true,
+    "discount-price": 140000
+  }
+}
